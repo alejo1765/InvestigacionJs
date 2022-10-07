@@ -8,3 +8,9 @@
     font-family: titulos;
     src: url(/fuentes/fuente\ LF.ttf);
 }
+.titulos{
+    font-size: 20px;
+    font-family: titulos;
+    color: rgb(191, 191, 191);
+
+}
