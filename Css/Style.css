@@ -22,3 +22,7 @@ p, ul{
     font-family: 'Times New Roman', Times, serif;
     color: rgb(163, 163, 163);
 }
+.contenido{
+    margin-left: 10%;
+    margin-right: 10%;
+}
