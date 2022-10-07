@@ -4,3 +4,7 @@
     padding: 20px;
     margin: 20px;
 }
+@font-face {
+    font-family: titulos;
+    src: url(/fuentes/fuente\ LF.ttf);
+}
