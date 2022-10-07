@@ -17,3 +17,8 @@
 h1,h2{
     text-align: center;
 }
+p, ul{
+    font-size: 12;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(163, 163, 163);
+}
